@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Discover"
+          android:icon="@drawable/ic_baseline_find_in_page_24"
+          android:id="@+id/fragmentDiscover"/>
+
+    <item android:title="Bookmark"
+          android:icon="@drawable/ic_baseline_home_24"
+          android:id="@+id/home2"/>
+
+    <item android:title="Take Action"
+          android:icon="@drawable/ic_baseline_sports_kabaddi_24"
+        android:id="@+id/stuff"/>
+
+    <item android:title="User"
+          android:icon="@drawable/ic_baseline_supervised_user_circle_24"
+          android:id="@+id/mapsFragment"/>/>
+</menu>
